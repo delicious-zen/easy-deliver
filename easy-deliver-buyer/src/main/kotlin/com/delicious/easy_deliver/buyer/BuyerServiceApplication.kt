@@ -13,7 +13,6 @@ open class BuyerServiceApplication
 
 fun main(args: Array<String>) {
   SpringApplication.run(BuyerServiceApplication::class.java, *args)
-
 }
 
 @Component

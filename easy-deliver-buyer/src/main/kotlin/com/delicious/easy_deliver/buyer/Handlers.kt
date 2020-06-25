@@ -1,12 +1,10 @@
-package com.delicious.easy_deliver.buyer.persistent
+package com.delicious.easy_deliver.buyer
 
-import com.delicious.easy_deliver.buyer.persistent.model.Buyer
 import com.delicious.easy_deliver.buyer.persistent.repository.BuyerRepository
 import io.vertx.core.Handler
 import io.vertx.core.Vertx
 import io.vertx.core.eventbus.Message
 import kotlinx.serialization.UnstableDefault
-import kotlinx.serialization.json.Json
 import org.slf4j.Logger
 import org.slf4j.LoggerFactory
 
