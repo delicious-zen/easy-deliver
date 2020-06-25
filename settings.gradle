@@ -1,0 +1,4 @@
+rootProject.name = 'easy-deliver'
+include 'easy-deliver-gateway'
+include 'easy-deliver-user'
+include 'easy-deliver-buyer'
