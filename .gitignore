@@ -2,9 +2,7 @@
 /.gradle/
 /gradle
 /easy-deliver-gateway/src/main/resources/*
-/easy-deliver-gateway/src/test
 /esay-deliver-buyer/out/er/out/production/classes/
 /esay-deliver-buyer/src/main/resources/*
-/esay-deliver-buyer/src/test
 /**/out
 /easy-deliver-user/
